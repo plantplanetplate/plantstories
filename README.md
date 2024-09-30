@@ -46,7 +46,7 @@ Plants are very important in many parts of Cambodian day life and culture. They 
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A0%E1%9E%BB%E1%9E%80%E1%9E%85%E1%9F%86%E1%9E%A0%E1%9E%BB%E1%9E%99.jpg"
-       label= "Fresh and blanced wild food plants with a side of  ប្រហុក (prâhŏk, fermented fish paste)
+       label= "Fresh and blanced wild food plants with a side of  ប្រហុក (prâhŏk, fermented fish paste)"
        attribution= "Channkhvy via Wikimedia Commons"
        license= "CC BY-SA 4.0>
    
