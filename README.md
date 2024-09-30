@@ -70,11 +70,10 @@ url="Plant Planet Plate Logo.png"
 
 Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens=={Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong=={Q29378729} school joined our team for a foraging walk and lunch at the Monk Community Forest.
 
-.
  
 The compiled plant lists and names were segregated according to use and were cross-checked with available provincial botanical records at the National Herbarium of Cambodia at the Royal University of Phnom Penh. The following sources have been used to cross-check and identify scientific plant names:
 ·      Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
- Srean, P. 2021. Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
+ Srean, P. (2021). Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
 ·      Wild Food Plants in Cambodia (2022)
 ·      Huot, Ader, Pao, Bates, and Goertz (2023)
 ·       Dictionary of plants used in Cambodia (2000)
