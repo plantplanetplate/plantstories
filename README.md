@@ -49,9 +49,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9
        label= "Fresh and blanced wild food plants with a side of  ប្រហុក (prâhŏk, fermented fish paste)"
        attribution= "Channkhvy via Wikimedia Commons"
        license= "CC BY-SA 4.0>
-   
-
-   ***
+                 
+***
 
 # Our Mission
 <param .ve-image 
