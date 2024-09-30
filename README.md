@@ -50,7 +50,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9
        attribution= "Channkhvy via Wikimedia Commons"
        license= "CC BY-SA 4.0>
    
-***
+
+   ***
 
 # Our Mission
 <param .ve-image 
@@ -74,10 +75,12 @@ Our project uses a mix of theories and methods from the disciplines of ==ethnobo
 The compiled plant lists and names were segregated according to use and were cross-checked with available provincial botanical records at the National Herbarium of Cambodia at the Royal University of Phnom Penh. 
 
 The following sources have been used to cross-check and identify scientific plant names:
+
 _Books_
 ·   Cambodian Food Culture with Wild Food Plant Dishes (2023)
 ·   Wild Food Plants in Cambodia (2022)
 ·   Dictionary of plants used in Cambodia (2000)
+
 
 _Articles/Reports_
  ·      Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
