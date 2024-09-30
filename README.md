@@ -36,7 +36,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.
   
 
 
-
+***
 
 
 # Plants of Cambodia
@@ -50,6 +50,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9
        attribution= "Channkhvy via Wikimedia Commons"
        license= "CC BY-SA 4.0>
    
+***
 
 # Our Mission
 <param .ve-image 
@@ -63,6 +64,7 @@ url="Plant Planet Plate Logo.png"
 + To highlight glimpses of the local traditional ecological knowledge of the vibrant communities living around the province
 
 
+***
 
 # Design & approaches
 
@@ -89,7 +91,7 @@ The methodology outlined above received ethical approval from the Università de
 + Built 2 plant presses from local materials for the Agri-Tech Centre
 + Prepared plant specimens to be deposited into the National Herbarium of Cambodia
                         
-
+***
 
 # Our Team
 
@@ -113,7 +115,7 @@ Sarin Sak is the former Project Manager of the Agri-Tech Centre. He has over 20 
 
 Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden." Sreypich contributed to Plant Planet Plate as a research assistant, field translator, and transcriber.
 
-
+***
 
 # Our Community 
 
@@ -127,6 +129,8 @@ Planet Planet Plate is a collaborative effort between academic institutions and 
 
 Plant Planet Plate also has a sister project based at Maastricht University called Plant Planet Plate Limburg which is also led by Dr. Ashley Thuthao Keng Dam. It is an inter-disciplinary and inter-faculty effort supported by Dr. Roy Erkens, Dr. Aodhán Kelly, and a team of dedicated research assistants and volunteers. Plant Planet Plate Limburg is generously funded by a UM Sustainability Seed Grant.
 
+***
+## References 
 
 [^1]: [DumbartonOaks] (https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
 [^2]: Theilade, I., & de Kok, R. (2015). [The status of botanical exploration and plant conservation in Cambodia]. Cambodian Journal of Natural History, 2015(2), 117-120. (http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf)
