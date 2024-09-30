@@ -29,10 +29,10 @@ In efforts to capture, uplift, and showcase these dynamic inter-species relation
 Through Plant Humanities, we are able to better understand the overlapping connections human beings have with the nature which surrounds us. These exchanges enhance our affinity for protecting, preserving, and bolstering both ==biodiversity=={Q47041} and ==biocultural diversity=={Q4914734}, which are increasingly threatened by the ongoing impacts of ==climate change=={Q7942}.
 
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.jpg"
-       label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
-       attribution="LBM1948 via Wikimedia Commons"
-       license= CC BY-SA 4.0>
+url="Plant Planet Plate Logo.png"
+       label="Plant Planet Plate" 
+       attribution="Ashley Thuthao Keng Dam "
+       license= >
   
 
 
