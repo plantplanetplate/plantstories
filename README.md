@@ -15,7 +15,7 @@ Before there were humans, there were plants. Throughout history, plants have nou
 
 
 
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) [Picture of the Year](https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year) for 2021
+
 <param .ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9E%80%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%BC%E1%9E%93%E1%9E%80%E1%9E%89%E1%9F%92%E1%9E%85%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%89.jpg"
        label="ផ្កាក្នុងកូនកញ្ច្រែញ( _flowers as seedlings_ )" 
