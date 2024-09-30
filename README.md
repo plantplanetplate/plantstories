@@ -13,12 +13,7 @@
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than we'd like to admit -- kill us dead.
 
-<param .ve-image
-url="Plant Planet Plate Logo.png"
-label= "Plant Planet Plate"
-attribution="Ashley Thuthao Keng Dam"
-license= "Do not use without explicit permission from creator"
-fit="contain>
+
 
 
 <param .ve-image 
@@ -51,7 +46,7 @@ Plants are very important in many parts of Cambodian day life and culture. They 
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A0%E1%9E%BB%E1%9E%80%E1%9E%85%E1%9F%86%E1%9E%A0%E1%9E%BB%E1%9E%99.jpg"
-       label=
+       label= "Fresh and blanced wild food plants with a side of  ប្រហុក (prâhŏk, fermented fish paste)
        attribution= "Channkhvy via Wikimedia Commons"
        license= "CC BY-SA 4.0>
    
