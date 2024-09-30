@@ -74,11 +74,14 @@ Our project uses a mix of theories and methods from the disciplines of ==ethnobo
 The compiled plant lists and names were segregated according to use and were cross-checked with available provincial botanical records at the National Herbarium of Cambodia at the Royal University of Phnom Penh. 
 
 The following sources have been used to cross-check and identify scientific plant names:
-·      Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
- Srean, P. (2021). Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
-·   Huot, Ader, Pao, Bates, and Goertz (2023)
+_Books_
+·   Cambodian Food Culture with Wild Food Plant Dishes (2023)
 ·   Wild Food Plants in Cambodia (2022)
 ·   Dictionary of plants used in Cambodia (2000)
+
+_Articles/Reports_
+ ·      Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
+ Srean, P. (2021). Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
  
  
  
