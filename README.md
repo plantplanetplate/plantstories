@@ -68,7 +68,7 @@ url="Plant Planet Plate Logo.png"
 
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens=={Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong=={Q29378729} school joined our team for a foraging walk and lunch at the Monk Community Forest.
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens=={Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong=={Q29378729} school joined our team for a foraging walk and lunch at the Monk Community Forest (MCF).
 
  
 The compiled plant lists and names were segregated according to use and were cross-checked with available provincial botanical records at the National Herbarium of Cambodia at the Royal University of Phnom Penh. 
@@ -97,7 +97,9 @@ The methodology outlined above received ethical approval from the Università de
 + Built 2 plant presses from local materials for the Agri-Tech Centre
 + Prepared plant specimens to be deposited into the National Herbarium of Cambodia
                         
-***
+**Overview of research activities since Summer 2023**
++ Photo-elicitated interviews with community members at the Agri-Tech to match suspected plant species' names with local Khmer names
++ Targeted soil samples collection for identified plant species at the Monk Community Forest (MCF)
 
 # Our Team
 
@@ -128,12 +130,13 @@ Sreypich Chhun is a master's student at the Royal University of Agriculture (Cam
 Plant Planet Plate is composed of the stories and insights of people living across Oddar Meanchey province. We are grateful for all the knowledge, stories, and plant-centered moments that they shared with us. This would not be possible without their support and guidance! អរគុណច្រើន
 
 
-
 Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186} under their Explorer Grant Scheme (Grant Number: EC-95284R-22). This study was given ethical clearance by the ==Universita degli Studi di Scienze Gastronomiche (University of Gastronomic Sciences)== {Q2523033} Ethics Committee through resolution on March 31st, 2022. 
 
 Planet Planet Plate is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University (The Netherlands)=={Q1137652}, Green Shoots Foundation (United Kingdom), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture (Cambodia)=={Q7374951}, and the ==University of Battambang (Cambodia)=={Q30265680}. 
 
-Plant Planet Plate also has a sister project based at Maastricht University called Plant Planet Plate Limburg which is also led by Dr. Ashley Thuthao Keng Dam. It is an inter-disciplinary and inter-faculty effort supported by Dr. Roy Erkens, Dr. Aodhán Kelly, and a team of dedicated research assistants and volunteers. Plant Planet Plate Limburg is generously funded by a UM Sustainability Seed Grant.
+Plant Planet Plate also has a sister project based at Maastricht University called Plant Planet Plate Limburg which is also led by Dr. Ashley Thuthao Keng Dam. It is an inter-disciplinary and inter-faculty effort supported by Dr. Roy Erkens, Dr. Aodhán Kelly, and a team of dedicated research assistants and volunteers. Plant Planet Plate Limburg is generously funded by a UM Sustainability Seed Grant (2023).
+
+For more information about our ever-growing team, please visit our dedicated [website](https://plantplanetplate.org/) 
 
 ***
 ## References 
