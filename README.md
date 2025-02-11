@@ -105,7 +105,7 @@ The methodology outlined above received ethical approval from the Università de
 
 **Ashley Thuthao Keng Dam (they/them/theirs)**
 Ashley Thuthao Keng Dam is a Khmer and Vietnamese American medical anthropologist, ethnobotanist, and food writer. 
-As a National Geographic Society explorer, Thao was able to expand upon their doctoral research on the curative cuisines of Cambodia. 
+As a National Geographic Society explorer, Thao was able to expand upon their doctoral research on the curative cuisines of Cambodia. Thao is a Visiting Scholar in the Department of Anthropology at Portland State University (USA) in the School of Earth, Environment, and Society. Previously, Thao was a Lecturer in Global Health and Global Studies at Maastricht University (Netherlands). 
 
 **Muneezay Jaffery (she/her/hers)**
 Muneezay Jaffery is the Operations Manager for Green Shoots Foundation <https://greenshootsfoundation.org/>, a UK registered Charity working in Cambodia since 2012.  For the charity, Muneezay has worked on strategising and managing projects related to environmental education, chemical-free farming and sustainable diets. For Plant Planet Plate, Muneezay worked on data collection within the community, cross-verification of plant names and research for the database. Her favourite part of the project is its unique positioning between the natural environment, the innate plant knowledge within villages and the sustenance these plants offer. Muneezay graduated from University College London in 2010 with a Masters in Environmental Sociology (Environment, Science and Politics) and her final research thesis was on Mimicking and Mediating nature whilst practicing permaculture in 10 community gardens of London.
