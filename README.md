@@ -82,8 +82,7 @@ _Books_
 
 
 _Articles/Reports_
- + Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
- Srean, P. (2021). Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
+ + ["Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants" by Seav et al. (2021)](https://www.researchgate.net/publication/365116487_Wild_World_of_Wild_Food_Plants_in_Cambodia_The_Utilization_Challenges_and_Opportunities_to_Scaling_up_the_Use_of_Wild_Food_Plants)
  
  
  
