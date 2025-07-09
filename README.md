@@ -76,13 +76,13 @@ The compiled plant lists and names were segregated according to use and were cro
 The following sources have been used to cross-check and identify scientific plant names:
 
 _Books_
-·   Cambodian Food Culture with Wild Food Plant Dishes (2023)
-·   Wild Food Plants in Cambodia (2022)
-·   Dictionary of plants used in Cambodia (2000)
++  [Cambodian Food Culture with Wild Food Plant Dishes](https://www.researchgate.net/publication/378683162_Cambodian_Food_Culture_with_Wild_Food_Plant_Dishes) (2023)
++  [Wild Food Plants in Cambodia](https://www.researchgate.net/publication/378683084_Wild_Food_Plants_in_Cambodia) (2022)
++ [Dictionary of plants used in Cambodia](https://www.plantsdictionarykh.com/about-us) (2000)
 
 
 _Articles/Reports_
- ·      Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
+ + Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
  Srean, P. (2021). Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
  
  
