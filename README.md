@@ -142,4 +142,4 @@ For more information about our ever-growing team, please visit our dedicated [we
 ## References 
 
 [^1]: [DumbartonOaks](https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
-[^2]: [Theilade, I., & de Kok, R. (2015). The status of botanical exploration and plant conservation in Cambodia. Cambodian Journal of Natural History, 2015(2), 117-120.(http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf)
+[^2]: [Theilade, I., & de Kok, R. (2015). The status of botanical exploration and plant conservation in Cambodia. Cambodian Journal of Natural History, 2015(2), 117-120.](http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf)
