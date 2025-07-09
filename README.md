@@ -86,7 +86,7 @@ _Articles/Reports_
  
  
  
-The methodology outlined above received ethical approval from the Università degli Studi di Scienze Gastronomiche research ethics committee on March 31st, 2022 under resolution 2/2022;
+The methodology outlined above received ethical approval from the [Università degli Studi di Scienze Gastronomiche research ethics committee](https://www.unisg.it/en/administration/organizational-structure/) on March 31st, 2022 under resolution 2/2022;
 
 
 **At a glance:** 
